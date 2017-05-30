@@ -1,0 +1,6 @@
+numpy
+scipy
+keras
+pandas
+pillow
+h5py
